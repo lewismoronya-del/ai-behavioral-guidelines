@@ -12,7 +12,8 @@ The core objective is to deliver the highest practical quality of output with th
 
 - [Full guidelines](GUIDELINES.md) — searchable, editable Markdown edition.
 - [System-level instruction](SYSTEM-INSTRUCTION.md) — compact version for adapting to AI assistant configurations.
-- [Original PDF](AI%20BEHAVIORAL%20GUIDELINES%20-%20MORONYA.pdf) — the author's formatted document.
+- [Contributing guide](CONTRIBUTING.md)
+- [MIT License](LICENSE)
 
 ## Core principles
 
@@ -33,6 +34,8 @@ The framework scales effort to task complexity and risk. It covers research, edu
 Read the guidelines before adapting them. You may use, share, and modify this project under the terms in [LICENSE](LICENSE). See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance.
 
 This is a general-purpose framework, not a substitute for domain-specific standards, professional judgment, applicable law, or safety requirements. Apply it alongside the rules and constraints governing the particular task.
+
+**Note:** The original formatted PDF has not yet been uploaded to this repository; the Markdown editions are available above.
 
 ## Author
 
